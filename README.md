@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler, a MSc in Mathematical Statistics student at Lund University.
 - 👀 I’m interested in Bayesian statistics, data forecasting, the probability of imprecise events, and puzzles involving infinities.
-- 🌱 I’m currently learning R for machine learning and SQL.
+- 🌱 I’m currently working on my data science portfolio.
 - 📫 Reach me at tchang141@gmail.com or via my website https://tylerlchang.com.
 
 <!---
